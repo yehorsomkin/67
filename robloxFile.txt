@@ -1,0 +1,36 @@
+
+ Name: soda | Password: soda | Rate: soda
+ Name: gooogle | Password: google-playz | Rate: 200000000
+ Name: undefined | Password: undefined | Rate: undefined | messi: undefined
+ Name: name | Password: password | Rate: 200 | messi: goat
+ Password: 674199 | Rate: 999 | messi: isthegoat
+ Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: yes | Rate: no | messi: yes
+ Name: undefined | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: ~ | Password: f | Rate: f | messi: f
+ Name: f | Password: f | Rate: A | messi: undefined
+ Name: undefined | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: f | Password: f | Rate: f | messi: W
+ Name: null | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: a | Password: b | Rate: c | messi: d
+ Name: a | Password: b | Rate: c | messi: d
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yehor | Password: undefined | Rate: undefined | messi: undefined
+ Name: yes | Password: yes | Rate: yes | messi: si
+ Name: L | Password: L | Rate: w | messi: S
